@@ -1,0 +1,13 @@
+{
+  "name": "git-repo-analyzer",
+  "description": "A CLI tool to analyze GitHub repo info.",
+  "author": "xdevman1",
+  "version": "1.0.0",
+  "type": "module",
+  "bin": {
+    "git-repo-analyzer": "bin/cli.js"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
