@@ -1,7 +1,7 @@
 {
   "name": "git-repo-analyzer",
   "description": "A CLI tool to analyze GitHub repo info.",
-  "author": "xdevman1", /* Change to ur username */
+  "author": "xdevman1", // Change to ur username
   "version": "1.0.0",
   "type": "module",
   "bin": {
